@@ -5,3 +5,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## setup stage
 
 ## design stage
+
+## database design

@@ -1,9 +1,11 @@
-# Project  Agenda
+# Project Agenda
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Home Page Agenda
 
-## setup stage
+- fix typewriter
 
-## design stage
+## Terminal Agenda
 
-## database design
+- Determine Logic of Termainl
+- Window Bar with button for minimizing
+-

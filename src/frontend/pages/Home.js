@@ -71,12 +71,19 @@ export default function Home() {
               bounds="body"
               dragHandleClassName={"handle"}
               resizeHandleClasses={["bottomRight"]}
-              className="absolute bg-bg0 z-40 "
+              className="absolute bg-bg0 z-40 border border-white"
               size={{ width: RND.width, height: RND.height }}
               position={{ x: RND.x, y: RND.y }}
             >
-              <div className="handle bg-bg1"></div>
-              <input type="text" className="text-black w-full"></input>
+              <div className="handle bg-bg1">X</div>
+
+              <div className="flex inline-flex space-x-1">
+                <label>$</label>
+                <input
+                  type="text"
+                  className="text-fg0 bg-bg0 w-full border-none focus:ring-0 focus:outline-none"
+                ></input>
+              </div>
             </Rnd>
 
             {/* paragraph typewriter */}

@@ -2,7 +2,7 @@
 
 ## Home Page Agenda
 
-- fix typewriter
+- if terminal clicker fully load type writer text
 
 ## Terminal Agenda
 
